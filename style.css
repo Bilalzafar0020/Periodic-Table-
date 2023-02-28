@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+td:hover{
+    background-color:indigo;
+    color:black;
+    font-size: 15pt;
+    text-overflow:initial;
+}
